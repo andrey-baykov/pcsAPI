@@ -1,0 +1,42 @@
+{
+ "base_url": "http://recruit-qa.portnov.com/recruit/api/v1",
+ "data": {"email": "john@doe.com", "password": "12345"},
+ "candidate": {
+      "firstName": "Bumble",
+      "middleName": "Jr",
+      "lastName": "Bee",
+      "email": "bmbl@bee.com",
+      "password": "789456",
+      "address": "2704 El Dorado Hills",
+      "city": "Sacramento",
+      "state": "California",
+      "zip": "95680",
+      "summary": "Account for the perfect person"
+    },
+ "new_candidate_data": {
+      "email": "bmbl@bee.com",
+      "password": "789456"
+    },
+ "position_data": {
+        "title": "Manual tester",
+        "address": "1st Main campus",
+        "city": "San Jose",
+        "state": "CA",
+        "zip": "93145",
+        "description": "SQA Automation engineer on python. Needs to automate all in the our company",
+        "dateOpen": "2022-05-30",
+        "company": "Space technologies"
+    },
+ "position_new_data": {
+        "title": "Python SQA automation engineer",
+        "address": "1st Main campus",
+        "city": "San Jose",
+        "state": "CA",
+        "zip": "93145",
+        "description": "SQA Automation engineer on python. Needs to automate all in the our company",
+        "dateOpen": "2022-05-30",
+        "company": "Space technologies inc"
+    }
+
+
+}
