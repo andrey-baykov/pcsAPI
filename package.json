@@ -1,5 +1,8 @@
 {
  "base_url": "http://recruit-qa.portnov.com/recruit/api/v1",
+  "login_ep": "/login",
+  "candidates_ep": "/candidates",
+  "positions_ep": "/positions",
  "data": {"email": "john@doe.com", "password": "12345"},
  "candidate": {
       "firstName": "Bumble",
