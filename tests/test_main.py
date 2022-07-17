@@ -1,7 +1,8 @@
-from portnovapi import PortnovAPI
 import json
+
 from assertpy.assertpy import assert_that
 
+from portnovapi import PortnovAPI
 
 with open("package.json") as file:
     data = json.load(file)
